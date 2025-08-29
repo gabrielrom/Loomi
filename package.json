@@ -17,8 +17,8 @@
   "bugs": {
     "url": "https://github.com/gabrielrom/Loomi/issues"
   },
-  "homepage": ".",
   "dependencies": {
+    "@supabase/supabase-js": "^2.56.0",
     "react": "19.1.1",
     "react-dom": "19.1.1",
     "react-scripts": "5.0.1"
@@ -37,6 +37,7 @@
   },
   "devDependencies": {
     "@types/react": "^19.1.12",
-    "@types/react-dom": "^19.1.8"
+    "@types/react-dom": "^19.1.8",
+    "loader-utils": "3.2.1"
   }
 }
